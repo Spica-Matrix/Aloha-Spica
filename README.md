@@ -1,4 +1,4 @@
-# Aloha-Spica
+# Spica-SPC
 
 ## Documentation
 
